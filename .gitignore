@@ -1,0 +1,5 @@
+node_modules
+dist
+public/dictionaries
+*.tsbuildinfo
+.DS_Store
